@@ -1,2 +1,2 @@
 # Recurring-date-picker
-A Project   with Next nad modern frontened framework
+A Project   with Next and modern frontened framework
